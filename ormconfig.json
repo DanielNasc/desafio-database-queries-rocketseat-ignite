@@ -1,5 +1,5 @@
 {
-  "username": "postgres",
+  "username": "user",
   "password": "docker",
 
   "type": "postgres",
